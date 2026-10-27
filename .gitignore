@@ -1,0 +1,4 @@
+# Never commit patrol results or exported reports
+duvo-prague-office-*
+*-patrol-*.json
+*.results.xlsx
